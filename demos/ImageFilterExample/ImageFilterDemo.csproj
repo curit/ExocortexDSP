@@ -67,7 +67,7 @@
     <ErrorReport>prompt</ErrorReport>
   </PropertyGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Exocortex.DSP.v1.csproj">
+    <ProjectReference Include="..\..\src\Exocortex.DSP.csproj">
       <Name>Exocortex.DSP.v1</Name>
       <Project>{1904A41B-D1B8-40E5-ADBB-728DDCF7C816}</Project>
       <Package>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</Package>
